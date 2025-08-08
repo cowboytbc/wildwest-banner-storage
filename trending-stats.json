@@ -1,0 +1,20 @@
+{
+  "stats": [
+    {
+      "chainId": "base",
+      "tokenAddress": "0x8129609e5303910464fce3022a809fa44455fe9a",
+      "athMcapUsd": 150371,
+      "athUsd": 150371,
+      "firstSeenAt": 1754663762029,
+      "updatedAt": 1754663762029
+    },
+    {
+      "chainId": "base",
+      "tokenAddress": "0x5c3e978a301a71d5b48c9023ef090321a02a0fc1",
+      "athMcapUsd": 27750,
+      "athUsd": 27750,
+      "firstSeenAt": 1754663762029,
+      "updatedAt": 1754663762029
+    }
+  ]
+}
