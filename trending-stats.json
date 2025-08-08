@@ -3,18 +3,18 @@
     {
       "chainId": "base",
       "tokenAddress": "0x8129609e5303910464fce3022a809fa44455fe9a",
-      "athMcapUsd": 150371,
-      "athUsd": 150371,
+      "athMcapUsd": 154761,
+      "athUsd": 154761,
       "firstSeenAt": 1754663762029,
-      "updatedAt": 1754663762029
+      "updatedAt": 1754675600702
     },
     {
       "chainId": "base",
       "tokenAddress": "0x5c3e978a301a71d5b48c9023ef090321a02a0fc1",
-      "athMcapUsd": 27750,
-      "athUsd": 27750,
+      "athMcapUsd": 29292,
+      "athUsd": 29292,
       "firstSeenAt": 1754663762029,
-      "updatedAt": 1754663762029
+      "updatedAt": 1754675600702
     }
   ]
 }
