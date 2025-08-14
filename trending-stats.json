@@ -3,10 +3,10 @@
     {
       "chainId": "base",
       "tokenAddress": "0x8129609e5303910464fce3022a809fa44455fe9a",
-      "athMcapUsd": 199306,
-      "athUsd": 199306,
+      "athMcapUsd": 202065,
+      "athUsd": 202065,
       "firstSeenAt": 1754663762029,
-      "updatedAt": 1755128600896
+      "updatedAt": 1755130069016
     },
     {
       "chainId": "base",
