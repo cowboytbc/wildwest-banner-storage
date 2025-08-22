@@ -15,6 +15,30 @@
       "athUsd": 26793,
       "firstSeenAt": 1755149904105,
       "updatedAt": 1755452081888
+    },
+    {
+      "chainId": "base",
+      "tokenAddress": "0xd5fa8927fa46e866270f4ac884c5967bbed71f13",
+      "athMcapUsd": 4852,
+      "athUsd": 4852,
+      "firstSeenAt": 1755906854142,
+      "updatedAt": 1755906854142
+    },
+    {
+      "chainId": "base",
+      "tokenAddress": "0xa575dae0eb60285145d01244be70509706e019a8",
+      "athMcapUsd": 4864,
+      "athUsd": 4864,
+      "firstSeenAt": 1755906854142,
+      "updatedAt": 1755906854142
+    },
+    {
+      "chainId": "base",
+      "tokenAddress": "0x6f82fb68263d55472f691bcbc855b6ceba12c7e0",
+      "athMcapUsd": 4859,
+      "athUsd": 4859,
+      "firstSeenAt": 1755906854142,
+      "updatedAt": 1755906854142
     }
   ]
 }
