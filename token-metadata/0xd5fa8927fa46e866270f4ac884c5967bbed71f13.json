@@ -1,11 +1,31 @@
 {
   "address": "0xd5fa8927fa46e866270f4ac884c5967bbed71f13",
-  "lastUpdated": "2025-08-23T23:28:47.067Z",
+  "lastUpdated": 1756051598967,
   "name": "TF",
   "symbol": "TestFINAL",
   "creator": "0x1f61f352A6f1e786830094d127Db75B2eD4a46BE",
   "description": "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
   "website": "https://www.merriam-webster.com/dictionary/test",
   "telegram": "https://www.merriam-webster.com/dictionary/test",
-  "x": "https://www.merriam-webster.com/dictionary/test"
+  "x": "https://www.merriam-webster.com/dictionary/test",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd5fa8927fa46e866270f4ac884c5967bbed71f13_logo.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd5fa8927fa46e866270f4ac884c5967bbed71f13_logo.png",
+  "logoUploadedAt": 1756051598359,
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd5fa8927fa46e866270f4ac884c5967bbed71f13_banner.png",
+  "backups": {
+    "1756051598967": {
+      "description": "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
+      "website": "https://www.merriam-webster.com/dictionary/test",
+      "telegram": "https://www.merriam-webster.com/dictionary/test",
+      "x": "https://www.merriam-webster.com/dictionary/test",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd5fa8927fa46e866270f4ac884c5967bbed71f13_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd5fa8927fa46e866270f4ac884c5967bbed71f13_banner.png",
+      "uploadedAt": "2025-08-24T16:06:38.967Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Sa",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "6d049cb8"
 }
