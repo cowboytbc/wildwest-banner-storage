@@ -1,0 +1,32 @@
+{
+  "address": "0x72213f5b7c246fb5d14a2aae41d0f73e88310fb4",
+  "lastUpdated": 1756063020370,
+  "name": "EXT",
+  "symbol": "Example Token",
+  "creator": "0x1f61f352A6f1e786830094d127Db75B2eD4a46BE",
+  "description": "Hope you enjoyed the video!",
+  "website": "",
+  "telegram": "",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x72213f5b7c246fb5d14a2aae41d0f73e88310fb4_logo.png",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x72213f5b7c246fb5d14a2aae41d0f73e88310fb4_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x72213f5b7c246fb5d14a2aae41d0f73e88310fb4_logo.png",
+  "logoUploadedAt": 1756063019613,
+  "bannerUploadedAt": 1756063020370,
+  "backups": {
+    "1756063020370": {
+      "description": "Hope you enjoyed the video!",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x72213f5b7c246fb5d14a2aae41d0f73e88310fb4_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x72213f5b7c246fb5d14a2aae41d0f73e88310fb4_banner.png",
+      "uploadedAt": "2025-08-24T19:17:00.370Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Sa",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "-6b973eb7"
+}
