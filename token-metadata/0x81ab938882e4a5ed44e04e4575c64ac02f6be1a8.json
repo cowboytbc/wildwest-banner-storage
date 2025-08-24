@@ -1,0 +1,32 @@
+{
+  "address": "0x81ab938882e4a5ed44e04e4575c64ac02f6be1a8",
+  "lastUpdated": 1756064117699,
+  "name": "DEMO",
+  "symbol": "DEMO",
+  "creator": "0xFbA5354B32BA32303743f4a4d09d4E57dfdcC726",
+  "description": "THIS IS A TEST.",
+  "website": "https://www.merriam-webster.com/dictionary/test",
+  "telegram": "https://www.merriam-webster.com/dictionary/test",
+  "x": "https://www.merriam-webster.com/dictionary/test",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x81ab938882e4a5ed44e04e4575c64ac02f6be1a8_logo.png",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x81ab938882e4a5ed44e04e4575c64ac02f6be1a8_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x81ab938882e4a5ed44e04e4575c64ac02f6be1a8_logo.png",
+  "logoUploadedAt": 1756064117040,
+  "bannerUploadedAt": 1756064117699,
+  "backups": {
+    "1756064117699": {
+      "description": "THIS IS A TEST.",
+      "website": "https://www.merriam-webster.com/dictionary/test",
+      "telegram": "https://www.merriam-webster.com/dictionary/test",
+      "x": "https://www.merriam-webster.com/dictionary/test",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x81ab938882e4a5ed44e04e4575c64ac02f6be1a8_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x81ab938882e4a5ed44e04e4575c64ac02f6be1a8_banner.png",
+      "uploadedAt": "2025-08-24T19:35:17.699Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Sa",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "-92b31"
+}
