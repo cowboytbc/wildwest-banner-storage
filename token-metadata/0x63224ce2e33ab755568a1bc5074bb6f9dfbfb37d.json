@@ -1,6 +1,6 @@
 {
   "address": "0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d",
-  "lastUpdated": 1756098915913,
+  "lastUpdated": 1756100894786,
   "name": "Apeal",
   "symbol": "APEAL",
   "creator": "0x49410A015A1880e45F2Fa792eCfD39592569d856",
@@ -11,7 +11,7 @@
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d_logo.jpeg",
   "banner": null,
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d_logo.jpeg",
-  "logoUploadedAt": 1756098915913,
+  "logoUploadedAt": 1756100894786,
   "backups": {
     "1756098915913": {
       "description": "No description available",
@@ -23,9 +23,20 @@
       "uploadedAt": "2025-08-25T05:15:15.913Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobi",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756100894786": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d_logo.jpeg",
+      "banner": null,
+      "uploadedAt": "2025-08-25T05:48:14.786Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobi",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
   "integrityHash": "6abff02b"
 }
