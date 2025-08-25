@@ -1,6 +1,6 @@
 {
   "address": "0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d",
-  "lastUpdated": 1756100987647,
+  "lastUpdated": 1756101049189,
   "name": "Apeal",
   "symbol": "APEAL",
   "creator": "0x49410A015A1880e45F2Fa792eCfD39592569d856",
@@ -24,14 +24,14 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobi",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1756100987647": {
+    "1756101049189": {
       "description": "No description available",
       "website": "",
       "telegram": "",
       "x": "",
       "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d_logo.jpeg",
       "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x63224ce2e33ab755568a1bc5074bb6f9dfbfb37d_banner.jpeg",
-      "uploadedAt": "2025-08-25T05:49:47.647Z",
+      "uploadedAt": "2025-08-25T05:50:49.189Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobi",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
@@ -39,5 +39,5 @@
   "updateCount": 2,
   "validated": false,
   "integrityHash": "-407a40ff",
-  "bannerUploadedAt": 1756100987647
+  "bannerUploadedAt": 1756101049188
 }
