@@ -1,6 +1,6 @@
 {
   "address": "0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca",
-  "lastUpdated": 1756144920253,
+  "lastUpdated": 1756144956100,
   "name": "420token",
   "symbol": "CHRONIC",
   "creator": "0x16A24d1608879E0c373B75c36E0F75C19cD2341a",
@@ -8,11 +8,11 @@
   "website": "",
   "telegram": "",
   "x": "",
-  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.jpg",
-  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
-  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.jpg",
-  "logoUploadedAt": 1756144740819,
-  "bannerUploadedAt": 1756144920252,
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.jpg",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
+  "logoUploadedAt": 1756144954380,
+  "bannerUploadedAt": 1756144956100,
   "backups": {
     "1756144742524": {
       "description": "No description available",
@@ -25,19 +25,19 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1756144920253": {
+    "1756144956100": {
       "description": "No description available",
       "website": "",
       "telegram": "",
       "x": "",
-      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.jpg",
-      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
-      "uploadedAt": "2025-08-25T18:02:00.253Z",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.jpg",
+      "uploadedAt": "2025-08-25T18:02:36.100Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
   "updateCount": 2,
   "validated": false,
-  "integrityHash": "1ad526b1"
+  "integrityHash": "-37982adf"
 }
