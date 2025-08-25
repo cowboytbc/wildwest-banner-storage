@@ -1,6 +1,6 @@
 {
   "address": "0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca",
-  "lastUpdated": 1756144742524,
+  "lastUpdated": 1756144822570,
   "name": "420token",
   "symbol": "CHRONIC",
   "creator": "0x16A24d1608879E0c373B75c36E0F75C19cD2341a",
@@ -12,7 +12,7 @@
   "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.jpg",
   "logoUploadedAt": 1756144740819,
-  "bannerUploadedAt": 1756144742523,
+  "bannerUploadedAt": 1756144822569,
   "backups": {
     "1756144742524": {
       "description": "No description available",
@@ -24,9 +24,20 @@
       "uploadedAt": "2025-08-25T17:59:02.524Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756144822570": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.jpg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
+      "uploadedAt": "2025-08-25T18:00:22.570Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
   "integrityHash": "1ad526b1"
 }
