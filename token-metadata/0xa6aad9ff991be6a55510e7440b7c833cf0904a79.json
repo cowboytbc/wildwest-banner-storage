@@ -1,10 +1,10 @@
 {
   "address": "0xa6aad9ff991be6a55510e7440b7c833cf0904a79",
-  "lastUpdated": 1756105395534,
+  "lastUpdated": 1756105628711,
   "name": "Bullets And Rum",
   "symbol": "BAR",
   "creator": "0x8261E55927A3FE15Ac95524155ccA709ea5A4524",
-  "description": "No description available",
+  "description": "​Where the rum flows and the bullets fly.",
   "website": "",
   "telegram": "",
   "x": "",
@@ -21,9 +21,20 @@
       "uploadedAt": "2025-08-25T07:03:15.534Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F956U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756105628710": {
+      "description": "​Where the rum flows and the bullets fly.",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": null,
+      "banner": null,
+      "uploadedAt": "2025-08-25T07:07:08.710Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F956U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
-  "integrityHash": "ed02c35"
+  "integrityHash": "56a9fc4b"
 }
