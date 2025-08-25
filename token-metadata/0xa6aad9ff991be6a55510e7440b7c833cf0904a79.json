@@ -1,6 +1,6 @@
 {
   "address": "0xa6aad9ff991be6a55510e7440b7c833cf0904a79",
-  "lastUpdated": 1756107145671,
+  "lastUpdated": 1756107538191,
   "name": "Bullets And Rum",
   "symbol": "BAR",
   "creator": "0x8261E55927A3FE15Ac95524155ccA709ea5A4524",
@@ -8,7 +8,7 @@
   "website": "",
   "telegram": "",
   "x": "",
-  "logo": null,
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_logo.jpg",
   "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_banner.jpg",
   "backups": {
     "1756105395534": {
@@ -65,10 +65,23 @@
       "uploadedAt": "2025-08-25T07:32:25.671Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F956U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756107538191": {
+      "description": "​Where the rum flows and the bullets fly.",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_logo.jpg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_banner.jpg",
+      "uploadedAt": "2025-08-25T07:38:58.191Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F956U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 5,
+  "updateCount": 6,
   "validated": false,
-  "integrityHash": "-2bd91895",
-  "bannerUploadedAt": 1756107145670
+  "integrityHash": "5bae05df",
+  "bannerUploadedAt": 1756107145670,
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_logo.jpg",
+  "logoUploadedAt": 1756107538191
 }
