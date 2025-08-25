@@ -1,6 +1,6 @@
 {
   "address": "0xa6aad9ff991be6a55510e7440b7c833cf0904a79",
-  "lastUpdated": 1756106717570,
+  "lastUpdated": 1756106738699,
   "name": "Bullets And Rum",
   "symbol": "BAR",
   "creator": "0x8261E55927A3FE15Ac95524155ccA709ea5A4524",
@@ -9,7 +9,7 @@
   "telegram": "",
   "x": "",
   "logo": null,
-  "banner": null,
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_banner.jpg",
   "backups": {
     "1756105395534": {
       "description": "No description available",
@@ -44,19 +44,20 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F956U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1756106717570": {
+    "1756106738699": {
       "description": "​Where the rum flows and the bullets fly.",
       "website": "",
       "telegram": "",
       "x": "",
       "logo": null,
-      "banner": null,
-      "uploadedAt": "2025-08-25T07:25:17.570Z",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xa6aad9ff991be6a55510e7440b7c833cf0904a79_banner.jpg",
+      "uploadedAt": "2025-08-25T07:25:38.699Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F956U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
   "updateCount": 4,
   "validated": false,
-  "integrityHash": "56a9fc4b"
+  "integrityHash": "-2bd91895",
+  "bannerUploadedAt": 1756106738699
 }
