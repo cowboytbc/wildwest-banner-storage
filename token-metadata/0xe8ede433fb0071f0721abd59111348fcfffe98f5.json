@@ -1,6 +1,6 @@
 {
   "address": "0xe8ede433fb0071f0721abd59111348fcfffe98f5",
-  "lastUpdated": 1756263116519,
+  "lastUpdated": 1756263196871,
   "name": "Peptapus",
   "symbol": "PEPTAPUS",
   "creator": "0x834d492867f95D7Bc8e882D82e870EAa2395F805",
@@ -23,14 +23,14 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1756263116517": {
+    "1756263196871": {
       "description": "No description available",
       "website": "",
       "telegram": "",
       "x": "https://x.com/peptapus?s=21",
       "logo": null,
       "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe8ede433fb0071f0721abd59111348fcfffe98f5_banner.png",
-      "uploadedAt": "2025-08-27T02:51:56.517Z",
+      "uploadedAt": "2025-08-27T02:53:16.871Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
