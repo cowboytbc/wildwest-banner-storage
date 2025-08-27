@@ -1,6 +1,6 @@
 {
   "address": "0xe8ede433fb0071f0721abd59111348fcfffe98f5",
-  "lastUpdated": 1756301301703,
+  "lastUpdated": 1756303654278,
   "name": "Peptapus",
   "symbol": "PEPTAPUS",
   "creator": "0x834d492867f95D7Bc8e882D82e870EAa2395F805",
@@ -8,9 +8,9 @@
   "website": "",
   "telegram": "https://t.me/peptapus",
   "x": "https://x.com/peptapus?s=21",
-  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe8ede433fb0071f0721abd59111348fcfffe98f5_logo.png",
-  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe8ede433fb0071f0721abd59111348fcfffe98f5_banner.png",
-  "bannerUploadedAt": 1756263024832,
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe8ede433fb0071f0721abd59111348fcfffe98f5_logo.jpg",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe8ede433fb0071f0721abd59111348fcfffe98f5_banner.jpg",
+  "bannerUploadedAt": 1756303654276,
   "backups": {
     "1756263024832": {
       "description": "No description available",
@@ -55,11 +55,22 @@
       "uploadedAt": "2025-08-27T13:28:21.703Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756303654276": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "https://t.me/peptapus",
+      "x": "https://x.com/peptapus?s=21",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe8ede433fb0071f0721abd59111348fcfffe98f5_logo.jpg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe8ede433fb0071f0721abd59111348fcfffe98f5_banner.jpg",
+      "uploadedAt": "2025-08-27T14:07:34.276Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 4,
+  "updateCount": 5,
   "validated": false,
-  "integrityHash": "-4ec7eaa8",
-  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe8ede433fb0071f0721abd59111348fcfffe98f5_logo.png",
-  "logoUploadedAt": 1756301301703
+  "integrityHash": "2fe1e58",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe8ede433fb0071f0721abd59111348fcfffe98f5_logo.jpg",
+  "logoUploadedAt": 1756303651198
 }
