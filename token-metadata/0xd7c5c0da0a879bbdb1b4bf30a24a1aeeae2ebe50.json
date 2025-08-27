@@ -1,0 +1,32 @@
+{
+  "address": "0xd7c5c0da0a879bbdb1b4bf30a24a1aeeae2ebe50",
+  "lastUpdated": 1756334106434,
+  "name": "NUD",
+  "symbol": "NUD",
+  "creator": "0xA665DFf62253c5c3B2034cA3a92077398694f002",
+  "description": "Gains so massive you'll bust a $NUD.",
+  "website": "",
+  "telegram": "",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd7c5c0da0a879bbdb1b4bf30a24a1aeeae2ebe50_logo.png",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd7c5c0da0a879bbdb1b4bf30a24a1aeeae2ebe50_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd7c5c0da0a879bbdb1b4bf30a24a1aeeae2ebe50_logo.png",
+  "logoUploadedAt": 1756334104842,
+  "bannerUploadedAt": 1756334106434,
+  "backups": {
+    "1756334106434": {
+      "description": "Gains so massive you'll bust a $NUD.",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd7c5c0da0a879bbdb1b4bf30a24a1aeeae2ebe50_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd7c5c0da0a879bbdb1b4bf30a24a1aeeae2ebe50_banner.png",
+      "uploadedAt": "2025-08-27T22:35:06.434Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S911U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "-358e7ef"
+}
