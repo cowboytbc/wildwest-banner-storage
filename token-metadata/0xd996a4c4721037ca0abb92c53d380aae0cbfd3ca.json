@@ -1,12 +1,12 @@
 {
   "address": "0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca",
-  "lastUpdated": 1756155787463,
+  "lastUpdated": 1756303947647,
   "name": "420token",
   "symbol": "CHRONIC",
   "creator": "0x16A24d1608879E0c373B75c36E0F75C19cD2341a",
   "description": "Lets get the 420token high AF. We will be burning $CHRONIC non stop with all LP fees. The higher the volume, the sweeter the burn.",
   "website": "",
-  "telegram": "",
+  "telegram": "https://t.me/+DQbUcwEMEC5kYWRh",
   "x": "https://x.com/chroniccoin420",
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
   "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
@@ -68,9 +68,20 @@
       "uploadedAt": "2025-08-25T21:03:07.463Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756303947647": {
+      "description": "Lets get the 420token high AF. We will be burning $CHRONIC non stop with all LP fees. The higher the volume, the sweeter the burn.",
+      "website": "",
+      "telegram": "https://t.me/+DQbUcwEMEC5kYWRh",
+      "x": "https://x.com/chroniccoin420",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
+      "uploadedAt": "2025-08-27T14:12:27.647Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 5,
+  "updateCount": 6,
   "validated": false,
-  "integrityHash": "3bb40bd0"
+  "integrityHash": "5f7cd0af"
 }
