@@ -1,32 +1,29 @@
 {
   "address": "0xaf52d033c9aa4242bf3b07c0167df1d0c1cf4ed6",
-  "lastUpdated": 1756769462226,
+  "lastUpdated": 1756769491107,
   "name": "Angry Chad",
   "symbol": "ANGRYCHAD",
   "creator": "0x43c9C2d23965AfE81b0c48FB352BE5e0882457c1",
   "description": "With the state of base there’s only one Chad left and boy is he angry.",
   "website": "",
   "telegram": "",
-  "x": "",
-  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xaf52d033c9aa4242bf3b07c0167df1d0c1cf4ed6_logo.png",
-  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xaf52d033c9aa4242bf3b07c0167df1d0c1cf4ed6_banner.jpeg",
-  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xaf52d033c9aa4242bf3b07c0167df1d0c1cf4ed6_logo.png",
-  "logoUploadedAt": 1756769461200,
-  "bannerUploadedAt": 1756769462224,
+  "x": "https://x.com/angrychadbase?s=21",
+  "logo": null,
+  "banner": null,
   "backups": {
-    "1756769462225": {
+    "1756769491106": {
       "description": "With the state of base there’s only one Chad left and boy is he angry.",
       "website": "",
       "telegram": "",
-      "x": "",
-      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xaf52d033c9aa4242bf3b07c0167df1d0c1cf4ed6_logo.png",
-      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xaf52d033c9aa4242bf3b07c0167df1d0c1cf4ed6_banner.jpeg",
-      "uploadedAt": "2025-09-01T23:31:02.225Z",
+      "x": "https://x.com/angrychadbase?s=21",
+      "logo": null,
+      "banner": null,
+      "uploadedAt": "2025-09-01T23:31:31.106Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
   "updateCount": 1,
   "validated": false,
-  "integrityHash": "-59685a42"
+  "integrityHash": "-7bf180ea"
 }
