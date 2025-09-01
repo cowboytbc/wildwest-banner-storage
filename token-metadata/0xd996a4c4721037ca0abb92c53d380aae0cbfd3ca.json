@@ -1,6 +1,6 @@
 {
   "address": "0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca",
-  "lastUpdated": 1756488169044,
+  "lastUpdated": 1756767838699,
   "name": "420token",
   "symbol": "CHRONIC",
   "creator": "0x16A24d1608879E0c373B75c36E0F75C19cD2341a",
@@ -11,8 +11,8 @@
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
   "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
-  "logoUploadedAt": 1756144954380,
-  "bannerUploadedAt": 1756152179898,
+  "logoUploadedAt": 1756767836982,
+  "bannerUploadedAt": 1756767838699,
   "backups": {
     "1756144742524": {
       "description": "No description available",
@@ -90,9 +90,20 @@
       "uploadedAt": "2025-08-29T17:22:49.044Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756767838699": {
+      "description": "Lets get the 420token high AF. We will be burning $CHRONIC non stop with all LP fees. The higher the volume, the sweeter the burn.",
+      "website": "https://www.chronic-token.com",
+      "telegram": "https://t.me/+DQbUcwEMEC5kYWRh",
+      "x": "https://x.com/chroniccoin420",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
+      "uploadedAt": "2025-09-01T23:03:58.699Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 7,
+  "updateCount": 8,
   "validated": false,
   "integrityHash": "-2987c90a"
 }
