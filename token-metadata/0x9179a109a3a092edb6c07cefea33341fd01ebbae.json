@@ -1,0 +1,32 @@
+{
+  "address": "0x9179a109a3a092edb6c07cefea33341fd01ebbae",
+  "lastUpdated": 1756764722143,
+  "name": "Based Big Bud",
+  "symbol": "BIGBUD",
+  "creator": "0xAf6a1E2655509dbc4A62dDD3acE12232384DfFBe",
+  "description": "Based Big Bud is a high ass bird, born to take flight on Base. Originally hand drawn by Matt Furie in 2018 Fueled by ganja smoke from true degens, come puff!",
+  "website": "https://basedbigbud.xyz/",
+  "telegram": "https://t.me/bigbudsonbase",
+  "x": "https://x.com/basedBigBud",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x9179a109a3a092edb6c07cefea33341fd01ebbae_logo.jpg",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x9179a109a3a092edb6c07cefea33341fd01ebbae_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x9179a109a3a092edb6c07cefea33341fd01ebbae_logo.jpg",
+  "logoUploadedAt": 1756764720547,
+  "bannerUploadedAt": 1756764722143,
+  "backups": {
+    "1756764722143": {
+      "description": "Based Big Bud is a high ass bird, born to take flight on Base. Originally hand drawn by Matt Furie in 2018 Fueled by ganja smoke from true degens, come puff!",
+      "website": "https://basedbigbud.xyz/",
+      "telegram": "https://t.me/bigbudsonbase",
+      "x": "https://x.com/basedBigBud",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x9179a109a3a092edb6c07cefea33341fd01ebbae_logo.jpg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x9179a109a3a092edb6c07cefea33341fd01ebbae_banner.png",
+      "uploadedAt": "2025-09-01T22:12:02.143Z",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "-57155564"
+}
