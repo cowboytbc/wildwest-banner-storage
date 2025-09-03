@@ -1,10 +1,10 @@
 {
   "address": "0xd7df0861de284f1a7952e784f816caad4ce36565",
-  "lastUpdated": 1756918895935,
+  "lastUpdated": 1756919324327,
   "name": "SHIPOST",
   "symbol": "SHI",
   "creator": "0xA665DFf62253c5c3B2034cA3a92077398694f002",
-  "description": "No description available",
+  "description": "THE ONCHAIN SOCIAL MEDIA PLATFORM THAT PAYS YOU TO POST!",
   "website": "",
   "telegram": "https://t.me/SHIPOST_SHI",
   "x": "",
@@ -24,9 +24,20 @@
       "uploadedAt": "2025-09-03T17:01:35.935Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S911U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1756919324327": {
+      "description": "THE ONCHAIN SOCIAL MEDIA PLATFORM THAT PAYS YOU TO POST!",
+      "website": "",
+      "telegram": "https://t.me/SHIPOST_SHI",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd7df0861de284f1a7952e784f816caad4ce36565_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd7df0861de284f1a7952e784f816caad4ce36565_banner.png",
+      "uploadedAt": "2025-09-03T17:08:44.327Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S911U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
-  "integrityHash": "-523d1f52"
+  "integrityHash": "-37873e34"
 }
