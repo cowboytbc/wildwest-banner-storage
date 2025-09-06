@@ -1,10 +1,10 @@
 {
   "address": "0x80b3879ab5b894c39f01f9095e4fca60d8aed6fd",
-  "lastUpdated": 1757174754844,
+  "lastUpdated": 1757174873548,
   "name": "Bullcycle",
   "symbol": "BULL",
   "creator": "0xdc3F9c116Fa0AC72F938a4308351B25F8345Ce81",
-  "description": "No description available",
+  "description": "No descriptBullCycle is the ultimate bull run memecoin, powered by the unstoppable energy of the crypto market cycle. Represented by a raging bull on a roaring motorcycle, $BULL captures the excitement, speed, and adrenaline of the next ion available",
   "website": "",
   "telegram": "",
   "x": "",
@@ -23,9 +23,20 @@
       "uploadedAt": "2025-09-06T16:05:54.844Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S908U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1757174873548": {
+      "description": "No descriptBullCycle is the ultimate bull run memecoin, powered by the unstoppable energy of the crypto market cycle. Represented by a raging bull on a roaring motorcycle, $BULL captures the excitement, speed, and adrenaline of the next ion available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x80b3879ab5b894c39f01f9095e4fca60d8aed6fd_logo.jpg",
+      "banner": null,
+      "uploadedAt": "2025-09-06T16:07:53.548Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S908U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
-  "integrityHash": "3deb3447"
+  "integrityHash": "6204947f"
 }
