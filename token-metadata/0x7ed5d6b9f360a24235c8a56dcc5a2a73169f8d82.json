@@ -1,13 +1,13 @@
 {
   "address": "0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82",
-  "lastUpdated": 1757134925367,
+  "lastUpdated": 1757135902732,
   "name": "Pickle",
   "symbol": "PICK",
   "creator": "0xc88611fF704570993c9e6183a416a6c94D7ca54F",
   "description": "In the back of an old deli fridge, forgotten behind jars of olives and mustard, one pickle brined longer than all the rest. This wasn’t just any cucumber—it was The Pickle, tough, tangy, and full of zest.",
   "website": "",
-  "telegram": "",
-  "x": "",
+  "telegram": "https://t.me/+iQe59UV9xycyOTkx",
+  "x": "https://x.com/powerpickl27627",
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82_logo.jpeg",
   "banner": null,
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82_logo.jpeg",
@@ -23,9 +23,20 @@
       "uploadedAt": "2025-09-06T05:02:05.366Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1757135902732": {
+      "description": "In the back of an old deli fridge, forgotten behind jars of olives and mustard, one pickle brined longer than all the rest. This wasn’t just any cucumber—it was The Pickle, tough, tangy, and full of zest.",
+      "website": "",
+      "telegram": "https://t.me/+iQe59UV9xycyOTkx",
+      "x": "https://x.com/powerpickl27627",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82_logo.jpeg",
+      "banner": null,
+      "uploadedAt": "2025-09-06T05:18:22.732Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
-  "integrityHash": "-5e4d91e7"
+  "integrityHash": "6254aafb"
 }
