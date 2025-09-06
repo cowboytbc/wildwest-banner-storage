@@ -1,0 +1,31 @@
+{
+  "address": "0x80b3879ab5b894c39f01f9095e4fca60d8aed6fd",
+  "lastUpdated": 1757174754844,
+  "name": "Bullcycle",
+  "symbol": "BULL",
+  "creator": "0xdc3F9c116Fa0AC72F938a4308351B25F8345Ce81",
+  "description": "No description available",
+  "website": "",
+  "telegram": "",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x80b3879ab5b894c39f01f9095e4fca60d8aed6fd_logo.jpg",
+  "banner": null,
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x80b3879ab5b894c39f01f9095e4fca60d8aed6fd_logo.jpg",
+  "logoUploadedAt": 1757174754843,
+  "backups": {
+    "1757174754844": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x80b3879ab5b894c39f01f9095e4fca60d8aed6fd_logo.jpg",
+      "banner": null,
+      "uploadedAt": "2025-09-06T16:05:54.844Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S908U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "3deb3447"
+}
