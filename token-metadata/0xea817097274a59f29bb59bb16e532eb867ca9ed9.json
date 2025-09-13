@@ -1,11 +1,11 @@
 {
   "address": "0xea817097274a59f29bb59bb16e532eb867ca9ed9",
-  "lastUpdated": 1757751712381,
+  "lastUpdated": 1757751797407,
   "name": "Bonnie Blue",
   "symbol": "WHORA",
   "creator": "0xC34d5AbFA9488C10501ecc87DAA298EC82dcC833",
   "description": "Bonnie Blue – $WHORA\n\nBringing the CUM back in community\n1,000 men to a 1,000x gem\n\nLove her or hate her, she’s breaking records, smashing charts, and built for pure pump.\n\nBonnie Blue found her wild new home on the Wild West Launch Pad.",
-  "website": "",
+  "website": "https://bblue.ju.mp/",
   "telegram": "https://t.me/WhoraonBase",
   "x": "https://x.com/basedwhora?s=21",
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xea817097274a59f29bb59bb16e532eb867ca9ed9_logo.jpeg",
@@ -25,19 +25,19 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1757751712381": {
+    "1757751797407": {
       "description": "Bonnie Blue – $WHORA\n\nBringing the CUM back in community\n1,000 men to a 1,000x gem\n\nLove her or hate her, she’s breaking records, smashing charts, and built for pure pump.\n\nBonnie Blue found her wild new home on the Wild West Launch Pad.",
-      "website": "",
+      "website": "https://bblue.ju.mp/",
       "telegram": "https://t.me/WhoraonBase",
       "x": "https://x.com/basedwhora?s=21",
       "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xea817097274a59f29bb59bb16e532eb867ca9ed9_logo.jpeg",
       "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xea817097274a59f29bb59bb16e532eb867ca9ed9_banner.png",
-      "uploadedAt": "2025-09-13T08:21:52.381Z",
+      "uploadedAt": "2025-09-13T08:23:17.407Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
   "updateCount": 2,
   "validated": false,
-  "integrityHash": "6e376168"
+  "integrityHash": "-3e64b2e2"
 }
