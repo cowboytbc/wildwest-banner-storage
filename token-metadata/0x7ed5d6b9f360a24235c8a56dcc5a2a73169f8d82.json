@@ -1,6 +1,6 @@
 {
   "address": "0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82",
-  "lastUpdated": 1757748131970,
+  "lastUpdated": 1757748379621,
   "name": "Pickle",
   "symbol": "PICK",
   "creator": "0xc88611fF704570993c9e6183a416a6c94D7ca54F",
@@ -56,9 +56,20 @@
       "uploadedAt": "2025-09-13T07:22:11.970Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1757748379621": {
+      "description": "In the back of an old deli fridge, forgotten behind jars of olives and mustard, one pickle brined longer than all the rest. This wasn’t just any cucumber—it was The Pickle, tough, tangy, and full of zest.",
+      "website": "",
+      "telegram": "https://t.me/+iQe59UV9xycyOTkx",
+      "x": "https://x.com/powerpickl27627",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82_logo.jpeg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x7ed5d6b9f360a24235c8a56dcc5a2a73169f8d82_banner.jpeg",
+      "uploadedAt": "2025-09-13T07:26:19.621Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 4,
+  "updateCount": 5,
   "validated": false,
   "integrityHash": "-4c959280",
   "bannerUploadedAt": 1757136496565
