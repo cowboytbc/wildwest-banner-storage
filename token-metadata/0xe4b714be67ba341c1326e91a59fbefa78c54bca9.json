@@ -1,6 +1,6 @@
 {
   "address": "0xe4b714be67ba341c1326e91a59fbefa78c54bca9",
-  "lastUpdated": 1757458333653,
+  "lastUpdated": 1757890285015,
   "name": "SHIT STAIN",
   "symbol": "SHITSTAIN",
   "creator": "0xe39A42EF1eCd0010f9E34D081F3DB86D008Ad3d0",
@@ -9,7 +9,7 @@
   "telegram": "https://t.me/ShitStainingBase",
   "x": "https://x.com/baseshitstain",
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.jpeg",
-  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.jpeg",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.png",
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.jpeg",
   "logoUploadedAt": 1757209023130,
   "backups": {
@@ -89,10 +89,21 @@
       "uploadedAt": "2025-09-09T22:52:13.653Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1757890285015": {
+      "description": "Spreading SHIT STAINS all throughout the base ecosystem by creating exotic liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever! This pumps the price! Liquidity fees-ers competitions on the horizon",
+      "website": "",
+      "telegram": "https://t.me/ShitStainingBase",
+      "x": "https://x.com/baseshitstain",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.jpeg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.png",
+      "uploadedAt": "2025-09-14T22:51:25.015Z",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 7,
+  "updateCount": 8,
   "validated": false,
-  "integrityHash": "2f110f89",
-  "bannerUploadedAt": 1756988563748
+  "integrityHash": "1a9e833e",
+  "bannerUploadedAt": 1757890285014
 }
