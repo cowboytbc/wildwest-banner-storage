@@ -1,0 +1,32 @@
+{
+  "address": "0x8c650d9a25cda0846aca2197d92856bd8c5cb946",
+  "lastUpdated": 1758033769962,
+  "name": "POMP",
+  "symbol": "POMP",
+  "creator": "0x21b8bdAbE0E94Dc5cA84f35b1559F3a7eDf79772",
+  "description": "fok, just pomp it.",
+  "website": "",
+  "telegram": "https://t.me/POMPONBASE",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x8c650d9a25cda0846aca2197d92856bd8c5cb946_logo.png",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x8c650d9a25cda0846aca2197d92856bd8c5cb946_banner.jpg",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x8c650d9a25cda0846aca2197d92856bd8c5cb946_logo.png",
+  "logoUploadedAt": 1758033768191,
+  "bannerUploadedAt": 1758033769962,
+  "backups": {
+    "1758033769962": {
+      "description": "fok, just pomp it.",
+      "website": "",
+      "telegram": "https://t.me/POMPONBASE",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x8c650d9a25cda0846aca2197d92856bd8c5cb946_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x8c650d9a25cda0846aca2197d92856bd8c5cb946_banner.jpg",
+      "uploadedAt": "2025-09-16T14:42:49.962Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Sa",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "-7381c6e2"
+}
