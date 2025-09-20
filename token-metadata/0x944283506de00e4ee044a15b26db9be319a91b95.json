@@ -1,0 +1,31 @@
+{
+  "address": "0x944283506de00e4ee044a15b26db9be319a91b95",
+  "lastUpdated": 1758397532757,
+  "name": "Based Aster",
+  "symbol": "ASTER",
+  "creator": "0x13dB232e7A21627cF0b6124A376A6EB9Bf75698e",
+  "description": "Aster On Base",
+  "website": "",
+  "telegram": "https://t.me/Based_Aster",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x944283506de00e4ee044a15b26db9be319a91b95_logo.jpeg",
+  "banner": null,
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x944283506de00e4ee044a15b26db9be319a91b95_logo.jpeg",
+  "logoUploadedAt": 1758397532757,
+  "backups": {
+    "1758397532757": {
+      "description": "Aster On Base",
+      "website": "",
+      "telegram": "https://t.me/Based_Aster",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x944283506de00e4ee044a15b26db9be319a91b95_logo.jpeg",
+      "banner": null,
+      "uploadedAt": "2025-09-20T19:45:32.757Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Br",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "3f9be28c"
+}
