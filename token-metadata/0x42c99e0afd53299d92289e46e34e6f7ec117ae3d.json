@@ -1,0 +1,32 @@
+{
+  "address": "0x42c99e0afd53299d92289e46e34e6f7ec117ae3d",
+  "lastUpdated": 1758388873831,
+  "name": "Dregen",
+  "symbol": "DREGEN",
+  "creator": "0x1fc4d9125F56EbCb4C26a46E4193225F5830F365",
+  "description": "🐉🟠 DREGEN HAS ENTERED THE MAINFRAME 🟠🐉 More than a meme — the next evolution on Base. 💊 Dev wallet 🔒, based team 💎, utilities 🚀, community-driven 🟠. No pump-and-dump — an empire in motion. The orange pill path belongs to holders. ⚡",
+  "website": "https://dregen.xyz/",
+  "telegram": "https://t.me/DregenBase",
+  "x": "https://x.com/dregenthedegen?s=21",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x42c99e0afd53299d92289e46e34e6f7ec117ae3d_logo.jpeg",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x42c99e0afd53299d92289e46e34e6f7ec117ae3d_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x42c99e0afd53299d92289e46e34e6f7ec117ae3d_logo.jpeg",
+  "logoUploadedAt": 1758388871161,
+  "bannerUploadedAt": 1758388873828,
+  "backups": {
+    "1758388873828": {
+      "description": "🐉🟠 DREGEN HAS ENTERED THE MAINFRAME 🟠🐉 More than a meme — the next evolution on Base. 💊 Dev wallet 🔒, based team 💎, utilities 🚀, community-driven 🟠. No pump-and-dump — an empire in motion. The orange pill path belongs to holders. ⚡",
+      "website": "https://dregen.xyz/",
+      "telegram": "https://t.me/DregenBase",
+      "x": "https://x.com/dregenthedegen?s=21",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x42c99e0afd53299d92289e46e34e6f7ec117ae3d_logo.jpeg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x42c99e0afd53299d92289e46e34e6f7ec117ae3d_banner.png",
+      "uploadedAt": "2025-09-20T17:21:13.828Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobi",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "160403d4"
+}
