@@ -1,0 +1,31 @@
+{
+  "address": "0x56373210d4ea4534527a5414a4bfd0dc5220dd6b",
+  "lastUpdated": 1758489362067,
+  "name": "Based Odin",
+  "symbol": "ODIN",
+  "creator": "0xDce6d70bbB278BE618bDaDfD5D71Bc46a3d4256E",
+  "description": "Aster’s guardian mascot alongside DUST",
+  "website": "",
+  "telegram": "https://t.me/BasedOdin",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x56373210d4ea4534527a5414a4bfd0dc5220dd6b_logo.jpeg",
+  "banner": null,
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x56373210d4ea4534527a5414a4bfd0dc5220dd6b_logo.jpeg",
+  "logoUploadedAt": 1758489362067,
+  "backups": {
+    "1758489362067": {
+      "description": "Aster’s guardian mascot alongside DUST",
+      "website": "",
+      "telegram": "https://t.me/BasedOdin",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x56373210d4ea4534527a5414a4bfd0dc5220dd6b_logo.jpeg",
+      "banner": null,
+      "uploadedAt": "2025-09-21T21:16:02.067Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Br",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "-7fe42c71"
+}
