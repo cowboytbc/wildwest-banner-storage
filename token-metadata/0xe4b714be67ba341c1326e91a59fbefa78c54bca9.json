@@ -1,10 +1,10 @@
 {
   "address": "0xe4b714be67ba341c1326e91a59fbefa78c54bca9",
-  "lastUpdated": 1758411555134,
+  "lastUpdated": 1758555212720,
   "name": "SHIT STAIN",
   "symbol": "SHITSTAIN",
   "creator": "0xe39A42EF1eCd0010f9E34D081F3DB86D008Ad3d0",
-  "description": "Spreading SHIT STAINS all throughout the base ecosystem by creating exotic liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever! This pumps the price! Liquidity fees-ers competitions on the horizon",
+  "description": "Spreading SHITSTAINS by creating liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever!",
   "website": "",
   "telegram": "https://t.me/ShitStainingBase",
   "x": "https://x.com/baseshitstain",
@@ -111,10 +111,21 @@
       "uploadedAt": "2025-09-20T23:39:15.134Z",
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1758555212719": {
+      "description": "Spreading SHITSTAINS by creating liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever!",
+      "website": "",
+      "telegram": "https://t.me/ShitStainingBase",
+      "x": "https://x.com/baseshitstain",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.png",
+      "uploadedAt": "2025-09-22T15:33:32.719Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 9,
+  "updateCount": 10,
   "validated": false,
-  "integrityHash": "-4c1f55e3",
+  "integrityHash": "496514e4",
   "bannerUploadedAt": 1758411555134
 }
