@@ -1,0 +1,32 @@
+{
+  "address": "0x5dc33f785b9ffdb6d3068337b6f6fbb1b7183210",
+  "lastUpdated": 1758719855005,
+  "name": "Jack The Otter",
+  "symbol": "JACK",
+  "creator": "0x894A32DcDdDd49Be7c6dFDa30Cb79c113B11D17A",
+  "description": "Just an Otter on base",
+  "website": "",
+  "telegram": "https://t.me/Jacktheotter",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x5dc33f785b9ffdb6d3068337b6f6fbb1b7183210_logo.jpg",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x5dc33f785b9ffdb6d3068337b6f6fbb1b7183210_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x5dc33f785b9ffdb6d3068337b6f6fbb1b7183210_logo.jpg",
+  "logoUploadedAt": 1758719851877,
+  "bannerUploadedAt": 1758719855005,
+  "backups": {
+    "1758719855005": {
+      "description": "Just an Otter on base",
+      "website": "",
+      "telegram": "https://t.me/Jacktheotter",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x5dc33f785b9ffdb6d3068337b6f6fbb1b7183210_logo.jpg",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x5dc33f785b9ffdb6d3068337b6f6fbb1b7183210_banner.png",
+      "uploadedAt": "2025-09-24T13:17:35.005Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Sa",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "b6da694"
+}
