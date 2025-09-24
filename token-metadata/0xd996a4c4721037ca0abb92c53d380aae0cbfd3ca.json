@@ -1,10 +1,10 @@
 {
   "address": "0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca",
-  "lastUpdated": 1757799558444,
+  "lastUpdated": 1758722694606,
   "name": "420token",
   "symbol": "CHRONIC",
   "creator": "0x16A24d1608879E0c373B75c36E0F75C19cD2341a",
-  "description": "No description available",
+  "description": "We are here to get the 420TOKEN high AF By burning CHRONIC. tbe higher the volume, the sweeter the burn.",
   "website": "https://www.chronic-token.com",
   "telegram": "https://t.me/CHRONIC_420_TOKEN",
   "x": "https://x.com/chroniccoin420",
@@ -112,9 +112,20 @@
       "uploadedAt": "2025-09-13T21:39:18.444Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1758722694606": {
+      "description": "We are here to get the 420TOKEN high AF By burning CHRONIC. tbe higher the volume, the sweeter the burn.",
+      "website": "https://www.chronic-token.com",
+      "telegram": "https://t.me/CHRONIC_420_TOKEN",
+      "x": "https://x.com/chroniccoin420",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xd996a4c4721037ca0abb92c53d380aae0cbfd3ca_banner.png",
+      "uploadedAt": "2025-09-24T14:04:54.606Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 13; Note 16 Pro Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 9,
+  "updateCount": 10,
   "validated": false,
-  "integrityHash": "16ef2b"
+  "integrityHash": "-64c3e294"
 }
