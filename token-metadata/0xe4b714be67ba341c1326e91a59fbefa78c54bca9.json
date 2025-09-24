@@ -1,11 +1,11 @@
 {
   "address": "0xe4b714be67ba341c1326e91a59fbefa78c54bca9",
-  "lastUpdated": 1758555212720,
+  "lastUpdated": 1758725113441,
   "name": "SHIT STAIN",
   "symbol": "SHITSTAIN",
   "creator": "0xe39A42EF1eCd0010f9E34D081F3DB86D008Ad3d0",
   "description": "Spreading SHITSTAINS by creating liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever!",
-  "website": "",
+  "website": "https://Baseshitstain.xyz",
   "telegram": "https://t.me/ShitStainingBase",
   "x": "https://x.com/baseshitstain",
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
@@ -13,17 +13,6 @@
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
   "logoUploadedAt": 1758411554144,
   "backups": {
-    "1756983253787": {
-      "description": "Spreading SHIT STAINS all throughout the base ecosystem by creating exotic shit filled liquidity pools with other projects. Then use the collected fees to create new LPs forever!!!",
-      "website": "",
-      "telegram": "",
-      "x": "",
-      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
-      "banner": null,
-      "uploadedAt": "2025-09-04T10:54:13.787Z",
-      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.",
-      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
-    },
     "1756984121349": {
       "description": "Spreading SHIT STAINS all throughout the base ecosystem by creating exotic shit filled liquidity pools with other projects. Then use the collected fees to create new LPs forever!!!",
       "website": "",
@@ -122,10 +111,21 @@
       "uploadedAt": "2025-09-22T15:33:32.719Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1758725113440": {
+      "description": "Spreading SHITSTAINS by creating liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever!",
+      "website": "https://Baseshitstain.xyz",
+      "telegram": "https://t.me/ShitStainingBase",
+      "x": "https://x.com/baseshitstain",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.png",
+      "uploadedAt": "2025-09-24T14:45:13.440Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 10,
+  "updateCount": 11,
   "validated": false,
-  "integrityHash": "496514e4",
+  "integrityHash": "28080aa8",
   "bannerUploadedAt": 1758411555134
 }
