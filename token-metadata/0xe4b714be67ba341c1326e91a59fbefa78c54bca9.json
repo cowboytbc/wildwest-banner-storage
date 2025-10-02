@@ -1,10 +1,10 @@
 {
   "address": "0xe4b714be67ba341c1326e91a59fbefa78c54bca9",
-  "lastUpdated": 1759321687450,
+  "lastUpdated": 1759442617715,
   "name": "SHIT STAIN",
   "symbol": "SHITSTAIN",
   "creator": "0xe39A42EF1eCd0010f9E34D081F3DB86D008Ad3d0",
-  "description": "Spreading SHITSTAINS by creating liquidity poos with other projects. Then using the collected fees to buy back and create new LPs forever!",
+  "description": "💩$SHITSTAIN is a meme coin with a mission to spread poop all across Base. \n💩Fees-ees are collected through Liquidity Poos, which fund development and increases token value and visibility.",
   "website": "https://Baseshitstain.xyz",
   "telegram": "https://t.me/ShitStainingBase",
   "x": "https://x.com/baseshitstain",
@@ -13,17 +13,6 @@
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
   "logoUploadedAt": 1758411554144,
   "backups": {
-    "1756988563748": {
-      "description": "Spreading SHIT STAINS all throughout the base ecosystem by creating exotic shit filled liquidity pools with other projects. Then use the collected fees to create new LPs forever!!!",
-      "website": "",
-      "telegram": "",
-      "x": "",
-      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
-      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.jpeg",
-      "uploadedAt": "2025-09-04T12:22:43.748Z",
-      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.",
-      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
-    },
     "1757009953569": {
       "description": "Spreading SHIT STAINS all throughout the base ecosystem by creating exotic shit filled liquidity pools with other projects. Then use the collected fees to create new LPs forever!!!",
       "website": "",
@@ -122,10 +111,21 @@
       "uploadedAt": "2025-10-01T12:28:07.449Z",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1759442617709": {
+      "description": "💩$SHITSTAIN is a meme coin with a mission to spread poop all across Base. \n💩Fees-ees are collected through Liquidity Poos, which fund development and increases token value and visibility.",
+      "website": "https://Baseshitstain.xyz",
+      "telegram": "https://t.me/ShitStainingBase",
+      "x": "https://x.com/baseshitstain",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xe4b714be67ba341c1326e91a59fbefa78c54bca9_banner.gif",
+      "uploadedAt": "2025-10-02T22:03:37.709Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 12,
+  "updateCount": 13,
   "validated": false,
-  "integrityHash": "2786ed83",
+  "integrityHash": "-5646dc06",
   "bannerUploadedAt": 1759321687447
 }
