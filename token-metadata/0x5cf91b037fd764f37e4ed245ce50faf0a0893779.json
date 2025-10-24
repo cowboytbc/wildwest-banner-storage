@@ -1,0 +1,29 @@
+{
+  "address": "0x5cf91b037fd764f37e4ed245ce50faf0a0893779",
+  "lastUpdated": 1761311913221,
+  "name": "Pixel Palace",
+  "symbol": "PIX",
+  "creator": "0xF783321D2EB1Cbd59694Ef0276816b243970746F",
+  "description": "Welcome to The Pixel Palace on Base !\n\nGames - NFTs - Art - WEB3",
+  "website": "",
+  "telegram": "https://t.me/PixelPalaceBase",
+  "x": "https://x.com/PixelPalaceBase",
+  "logo": null,
+  "banner": null,
+  "backups": {
+    "1761311913221": {
+      "description": "Welcome to The Pixel Palace on Base !\n\nGames - NFTs - Art - WEB3",
+      "website": "",
+      "telegram": "https://t.me/PixelPalaceBase",
+      "x": "https://x.com/PixelPalaceBase",
+      "logo": null,
+      "banner": null,
+      "uploadedAt": "2025-10-24T13:18:33.221Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F741B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "73e7f294"
+}
