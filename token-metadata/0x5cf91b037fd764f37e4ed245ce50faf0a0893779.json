@@ -1,15 +1,15 @@
 {
   "address": "0x5cf91b037fd764f37e4ed245ce50faf0a0893779",
-  "lastUpdated": 1761312292208,
+  "lastUpdated": 1761312420403,
   "name": "Pixel Palace",
   "symbol": "PIX",
   "creator": "0xF783321D2EB1Cbd59694Ef0276816b243970746F",
-  "description": "Welcome to The Pixel Palace on Base !\n\nGames - NFTs - Art - WEB3",
+  "description": "Welcome to The Pixel Palace on Base !\n\nA pixel project with plans to incorporate games, NFTs and art on Web3 \n\nWebsite in development, enjoy this early entry !",
   "website": "",
   "telegram": "https://t.me/PixelPalaceBase",
   "x": "https://x.com/PixelPalaceBase",
-  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x5cf91b037fd764f37e4ed245ce50faf0a0893779_logo.png",
-  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x5cf91b037fd764f37e4ed245ce50faf0a0893779_banner.png",
+  "logo": null,
+  "banner": null,
   "backups": {
     "1761311913221": {
       "description": "Welcome to The Pixel Palace on Base !\n\nGames - NFTs - Art - WEB3",
@@ -22,22 +22,19 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F741B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1761312292207": {
-      "description": "Welcome to The Pixel Palace on Base !\n\nGames - NFTs - Art - WEB3",
+    "1761312420403": {
+      "description": "Welcome to The Pixel Palace on Base !\n\nA pixel project with plans to incorporate games, NFTs and art on Web3 \n\nWebsite in development, enjoy this early entry !",
       "website": "",
       "telegram": "https://t.me/PixelPalaceBase",
       "x": "https://x.com/PixelPalaceBase",
-      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x5cf91b037fd764f37e4ed245ce50faf0a0893779_logo.png",
-      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0x5cf91b037fd764f37e4ed245ce50faf0a0893779_banner.png",
-      "uploadedAt": "2025-10-24T13:24:52.207Z",
+      "logo": null,
+      "banner": null,
+      "uploadedAt": "2025-10-24T13:27:00.403Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F741B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
   "updateCount": 2,
   "validated": false,
-  "integrityHash": "-927bfd8",
-  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0x5cf91b037fd764f37e4ed245ce50faf0a0893779_logo.png",
-  "logoUploadedAt": 1761312290291,
-  "bannerUploadedAt": 1761312292207
+  "integrityHash": "-48115d5c"
 }
