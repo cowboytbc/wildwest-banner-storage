@@ -1,10 +1,10 @@
 {
   "address": "0x5cf91b037fd764f37e4ed245ce50faf0a0893779",
-  "lastUpdated": 1761312420403,
+  "lastUpdated": 1761312448372,
   "name": "Pixel Palace",
   "symbol": "PIX",
   "creator": "0xF783321D2EB1Cbd59694Ef0276816b243970746F",
-  "description": "Welcome to The Pixel Palace on Base !\n\nA pixel project with plans to incorporate games, NFTs and art on Web3 \n\nWebsite in development, enjoy this early entry !",
+  "description": "Welcome to The Pixel Palace on Base !\n\nA pixel project with plans to incorporate games, NFTs and art on Web3.\n\nWebsite in development, enjoy this early entry !",
   "website": "",
   "telegram": "https://t.me/PixelPalaceBase",
   "x": "https://x.com/PixelPalaceBase",
@@ -22,19 +22,19 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F741B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     },
-    "1761312420403": {
-      "description": "Welcome to The Pixel Palace on Base !\n\nA pixel project with plans to incorporate games, NFTs and art on Web3 \n\nWebsite in development, enjoy this early entry !",
+    "1761312448372": {
+      "description": "Welcome to The Pixel Palace on Base !\n\nA pixel project with plans to incorporate games, NFTs and art on Web3.\n\nWebsite in development, enjoy this early entry !",
       "website": "",
       "telegram": "https://t.me/PixelPalaceBase",
       "x": "https://x.com/PixelPalaceBase",
       "logo": null,
       "banner": null,
-      "uploadedAt": "2025-10-24T13:27:00.403Z",
+      "uploadedAt": "2025-10-24T13:27:28.372Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-F741B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
   "updateCount": 2,
   "validated": false,
-  "integrityHash": "-48115d5c"
+  "integrityHash": "-67e3512a"
 }
