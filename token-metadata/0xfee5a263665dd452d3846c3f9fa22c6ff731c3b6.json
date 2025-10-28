@@ -1,0 +1,32 @@
+{
+  "address": "0xfee5a263665dd452d3846c3f9fa22c6ff731c3b6",
+  "lastUpdated": 1761614256873,
+  "name": "Moose Knuckles",
+  "symbol": "MOOSE",
+  "creator": "0x13529b821a791A16f49c1EA4901F48238C79c9b1",
+  "description": "No description available",
+  "website": "",
+  "telegram": "",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xfee5a263665dd452d3846c3f9fa22c6ff731c3b6_logo.png",
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xfee5a263665dd452d3846c3f9fa22c6ff731c3b6_banner.png",
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xfee5a263665dd452d3846c3f9fa22c6ff731c3b6_logo.png",
+  "logoUploadedAt": 1761614255771,
+  "bannerUploadedAt": 1761614256872,
+  "backups": {
+    "1761614256872": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xfee5a263665dd452d3846c3f9fa22c6ff731c3b6_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xfee5a263665dd452d3846c3f9fa22c6ff731c3b6_banner.png",
+      "uploadedAt": "2025-10-28T01:17:36.872Z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "7c1d5ec9"
+}
