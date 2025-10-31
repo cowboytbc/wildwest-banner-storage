@@ -1,0 +1,31 @@
+{
+  "address": "0xf4218c1a07f66c4640ae07b857e9518bf2b396da",
+  "lastUpdated": 1761926000420,
+  "name": "ASSY",
+  "symbol": "ASSY",
+  "creator": "0x9360c80CA79409b5e315A9791bB0208C02D6ae32",
+  "description": "No description available",
+  "website": "",
+  "telegram": "",
+  "x": "",
+  "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_logo.png",
+  "banner": null,
+  "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_logo.png",
+  "logoUploadedAt": 1761926000420,
+  "backups": {
+    "1761926000420": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_logo.png",
+      "banner": null,
+      "uploadedAt": "2025-10-31T15:53:20.420Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S911U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    }
+  },
+  "updateCount": 1,
+  "validated": false,
+  "integrityHash": "6f899d81"
+}
