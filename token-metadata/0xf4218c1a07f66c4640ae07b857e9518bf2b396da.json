@@ -1,6 +1,6 @@
 {
   "address": "0xf4218c1a07f66c4640ae07b857e9518bf2b396da",
-  "lastUpdated": 1761926000420,
+  "lastUpdated": 1761926235830,
   "name": "ASSY",
   "symbol": "ASSY",
   "creator": "0x9360c80CA79409b5e315A9791bB0208C02D6ae32",
@@ -9,7 +9,7 @@
   "telegram": "",
   "x": "",
   "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_logo.png",
-  "banner": null,
+  "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_banner.png",
   "logoBackup": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_logo.png",
   "logoUploadedAt": 1761926000420,
   "backups": {
@@ -23,9 +23,21 @@
       "uploadedAt": "2025-10-31T15:53:20.420Z",
       "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S911U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, li",
       "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
+    },
+    "1761926235830": {
+      "description": "No description available",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "logo": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/logos/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_logo.png",
+      "banner": "https://raw.githubusercontent.com/cowboytbc/wildwest-banner-storage/main/token-assets/banners/0xf4218c1a07f66c4640ae07b857e9518bf2b396da_banner.png",
+      "uploadedAt": "2025-10-31T15:57:15.830Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S911U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, li",
+      "origin": "https://wildwestlaunch.xyz/trending-widget-v2.html"
     }
   },
-  "updateCount": 1,
+  "updateCount": 2,
   "validated": false,
-  "integrityHash": "6f899d81"
+  "integrityHash": "-1b54e237",
+  "bannerUploadedAt": 1761926235830
 }
